@@ -1,3 +1,5 @@
-# Hallo aku *Siti Rohmah*  
-**Ini adalah repository untuk latihan branc baru di GitHub**  
-Github itu asyik.
+
+# Ini adalah repository untuk latihan branc baru di GitHub  
+Belajar Github di Dicoding itu asyik.  
+Apalagi belajarnya sama kamu hehe luvv 
+
